@@ -43,8 +43,13 @@ Ako ste točno pratili korake možete ugasiti i upalite VidiX te zapoćeti sa ig
 ## 4. Gotovo 
 - dodatno sto oćemo
      (slika)/(video)
-## Dodatna opcija
-Dodatno može se zamijeniti još boljim sistemom. Super go play koji nadodaje zvuk i odabir boje zaslona
+## Dodatna opcije
+  ### Bolji go play 
+  Dodatno može se zamijeniti još boljim sistemom. Super go play koji nadodaje zvuk i odabir boje zaslona.
+  ### Dodatne igrice
+
+
+
 
 
 
