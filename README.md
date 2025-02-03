@@ -1,3 +1,7 @@
+U današnje vrijeme gaming konzole su nešto što je većina djece imala u svojim rukama i igrali su većinu današnjih igara. Međutim, današnje igra „nemaju kraja“, zbog učestalih ažuriranja pri čemu igrači često igraju predugo vremena igrice i na taj način štete svome zdravlju. 
+Retro igrice su uglavnom konačne i to je bio jedan od kriterija koji doprinose smanjenju utjecaja na zdravlje, jer je vrijeme igranja na retro konzolama definitvno puno manje od igara na npr. mobilnim Android i iOS platformama.
+
+
 # Upute za postavljanje popularnih igrica na Vidi x
 Vidi X je mikroračunalo koje je osmišljeno u Hrvatskoj i koristi se ESP32 procesorom. Ima razvnovrsne koristi i primjene. Pomoću ovih uputa možete stvoriti emulator koji stavlja programe retro konzola na Vidi X.
 ## 1. Priprema
