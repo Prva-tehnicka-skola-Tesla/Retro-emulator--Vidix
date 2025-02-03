@@ -1,5 +1,5 @@
 # Upute za postavljanje popularnih igrica na Vidi x
-Vidi X je mikroračunalo koje osmišljeno u Hrvatskoj i koristi ESP32 procesorom. Ima razvnovrsne koristi i primjena. Ovim uputama možete staviti emulator koji stavlja programe retro konzola na Vidi X.
+Vidi X je mikroračunalo koje je osmišljeno u Hrvatskoj i koristi se ESP32 procesorom. Ima razvnovrsne koristi i primjene. Pomoću ovih uputa možete stvoriti emulator koji stavlja programe retro konzola na Vidi X.
 ## 1. Priprema
 Kako bi započeli sa pripremanjem Vidi X-a za emulator prvo trebamo flashati procesor sa ovim programom: 
 
