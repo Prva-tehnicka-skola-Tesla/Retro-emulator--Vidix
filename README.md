@@ -8,10 +8,10 @@ Kako bi započeli sa pripremanjem Vidi X-a za emulator prvo trebamo flashati pro
 - Kada preuzmete program i otvorite ga, nađite opciju "ESP32 DownloadTool"
 - Ovim alatom možemo brisati, zaustaviti i započeti preuzimanje na sami procesor.
 
-## 2. Odriod-go firmware
+## 2. Odroid-go firmware
 Prvo preuzmite odroid go firmware:
 https://github.com/VidiLAB-com/Vidi-X/blob/master/Alati-za-prvi-setup/odroid-go-firmware-20181001.img
-1. Nakon što ste preuzeli odroid-go-firmware-20181001.img  u prvom redu kliknite tri točkice (…). Nakon klika na tri točkice otvorit će se explorer s kojim morate navigirati do image-a. Kako bi mogli vidjeti image u donjem desnom kutu potrebno je odabarati „All files“ ili „Image“ opciju.
+1. Nakon što ste preuzeli odroid-go-firmware-20181001.img,  u prvom redu kliknite tri točkice (…). Nakon klika na tri točkice otvorit će se explorer s kojim morate navigirati do image-a. Kako bi mogli vidjeti image u donjem desnom kutu potrebno je odabarati „All files“ ili „Image“ opciju.
 
    ![image](https://github.com/user-attachments/assets/46f92ef8-5577-47a3-8ebb-8d16634c37d5)
 
@@ -21,10 +21,10 @@ https://github.com/VidiLAB-com/Vidi-X/blob/master/Alati-za-prvi-setup/odroid-go-
 
    ![image](https://github.com/user-attachments/assets/89503bb9-e44e-4b95-bda6-4a8ca6d1e244)
 
-5. Ako ste sve postavili prema slici možete započeti sa flashanjem. Prvo ćete kliknuti na ERASE te kada se pojavi FINISH na mjestu IDLE-a možete kliknuti START. Kada program završi sa downloadanjem gotovi ste sa flashanjem i možete ugasiti program.
+5. Ako ste sve postavili prema slici, možete započeti sa flashanjem. Prvo ćete kliknuti na ERASE gumb te kada se pojavi FINISH na mjestu IDLE-a, možete kliknuti START. Kada program završi s preuzimanjem, gotovi ste sa flashanjem i možete ugasiti program.
 
 ## 3. Pripremanje SD kartice
-Sada prelazimo na pripremanje SD kartice. SD karticu ćemo trebati formati na FAT32. Zatim na SD karticu otpakirajte .zip datoteku:
+Sada prelazimo na pripremanje SD kartice. SD karticu ćemo trebati formati na FAT32 format. Zatim na SD karticu otpakirajte .zip datoteku:
 [sdcard_0907.zip](https://github.com/user-attachments/files/18617615/sdcard_0907.zip)
 
 - Na SD kartici ćete imati dvije mape : odroid i roms
@@ -37,16 +37,18 @@ Sada prelazimo na pripremanje SD kartice. SD karticu ćemo trebati formati na FA
    - gg – Sega Game Gear
    - col – ColecoVison
 
-Kada pronađete rom igrice koju želite igrati možete ju staviti u mapu pripadajućeg emulatora. Npr. za Gameboy Color rom ćete staviti u mapu roms/gbc sa ekstenzijom  .gbc te tako za ostale emulatore.
+Kada pronađete rom igrice koje želite igrati možete ih staviti u mapu pripadajućeg emulatora. Npr. za Gameboy Color rom ćete staviti u mapu roms/gbc sa ekstenzijom  .gbc te tako i za ostale emulatore.
 
-Ako ste točno pratili korake možete ugasiti i upalite VidiX te zapoćeti sa igranjem igrica.
+Ako ste točno pratili korake možete ugasiti i upaliti Vidi X te započeti sa igranjem retro igrica.
 ## 4. Gotovo 
 - ....
      (slika)/(video)
 ## Dodatna opcije
   ### Bolji go play 
-  Dodatno može se zamijeniti još boljim sistemom "Super Go play" koji poboljšava zvuk i omogućava izmjenu boje zaslona.
+  Dodatno se može zamijeniti još boljim sistemom "Super Go play" koji nudi poboljšani zvuk i omogućava izmjenu boje zaslona.
   Emulator je dostupan na stranici: https://github.com/mattkj/super-go-play
+
+  
   ### Dodatne igrice
 
 
