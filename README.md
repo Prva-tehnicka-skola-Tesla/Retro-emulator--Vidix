@@ -41,9 +41,12 @@ Kada pronađete rom igrice koje želite igrati možete ih staviti u mapu pripada
 
 Ako ste točno pratili korake možete ugasiti i upaliti Vidi X te započeti sa igranjem retro igrica.
 ## 4. Gotovo 
-- ....
-     (slika)/(video)
+- Super Mario World - Gameboy Color
+  ![Super Mario World - Gameboy Color](https://github.com/user-attachments/assets/e002d9be-b9f5-4e60-9403-c5bd7d8bd1a8)
+  ![Super Mario World - Gameboy Color1](https://github.com/user-attachments/assets/ee31ebb8-687c-410d-8191-09fb4dee1bd5)
+
 ## Dodatna opcije
+
   ### Bolji go play 
   Dodatno se može zamijeniti još boljim sistemom "Super Go play" koji nudi poboljšani zvuk i omogućava izmjenu boje zaslona.
   Emulator je dostupan na stranici: https://github.com/mattkj/super-go-play
